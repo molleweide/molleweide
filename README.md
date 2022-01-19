@@ -1,6 +1,6 @@
 # audio | software | design | fitness
 
-# links
+<!-- TODO: readme center text / objects -->
 
 <!-- how to custom badge:
 https://dev.to/mlkrsrc/how-to-make-custom-badges-to-improve-your-markdown-documents-460k
@@ -9,37 +9,37 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 
 <!-- mollweide / moll.weide / mo.ll / moll.w -->
 [ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/hjalmar-jakobsson-35912950/)
-[ ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white) ]
+[ ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white) ](https://soundcloud.com/hjalmarjakobsson)
 [ ![Twitter](https://img.shields.io/badge/molleweide-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ](https://twitter.com/molleweide)
 <!-- cockos forum -->
 <!-- ardour forum -->
 
 # languages
 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/lua.svg' width='30'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/js.svg' width='30'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/c.svg' width='30'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/python.png' height='30'/>  
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/html.svg' width='30'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/css.svg' width='30'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/sass.svg' width='30'/> 
-<!-- <img src = 'https://github.com/molleweide/molleweide/blob/master/images/bootstrap.svg' width='33'/>  -->
-<!-- <img src = 'https://github.com/molleweide/molleweide/blob/master/images/dart.svg' width='33'/>  -->
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/php.svg' width='40'/>
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/sql.svg' width='30'/> 
-<!-- <img src = 'https://github.com/molleweide/molleweide/blob/master/images/cpp.svg' width='30'/>  -->
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/lua.svg' width='30'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/js.svg' width='30'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/c.svg' width='30'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/python.png' height='30'/>  
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/html.svg' width='30'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/css.svg' width='30'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/sass.svg' width='30'/> 
+<!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/bootstrap.svg' width='33'/>  -->
+<!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/dart.svg' width='33'/>  -->
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/php.svg' width='40'/>
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/sql.svg' width='30'/> 
+<!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/cpp.svg' width='30'/>  -->
 
 # technologies
 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/nvim.svg' width='30'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/git.svg' width='30'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/nodejs.svg' width='33'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/react.svg' width='33'/>
-<img src = 'https://github.com/molleweide/molleweide/blob/master/images/angular.svg' width='33'/>
-<!-- <img src = 'https://github.com/molleweide/molleweide/blob/master/images/pycharm.svg' width='30'/>  -->
-<!-- <img src = 'https://github.com/molleweide/molleweide/blob/master/images/flutter-logo.svg' width='30'/>  -->
-<!-- <img src = 'https://github.com/molleweide/molleweide/blob/master/images/django.svg' height='40'/>  -->
-<!-- <img src = 'https://github.com/molleweide/molleweide/blob/master/images/flask.png' width='30'/>  -->
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nvim.svg' width='30'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/git.svg' width='30'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' width='33'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/react.svg' width='33'/>
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/angular.svg' width='33'/>
+<!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/pycharm.svg' width='30'/>  -->
+<!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/flutter-logo.svg' width='30'/>  -->
+<!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/django.svg' height='40'/>  -->
+<!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/flask.png' width='30'/>  -->
 
 
 <!-- TODO: -->
