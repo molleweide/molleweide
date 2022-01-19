@@ -16,6 +16,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 
 # languages
 
+<span>
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/lua.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/js.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/c.svg' width='30'/> 
@@ -28,6 +29,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/php.svg' width='40'/>
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/sql.svg' width='30'/> 
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/cpp.svg' width='30'/>  -->
+</span>
 
 # technologies
 
