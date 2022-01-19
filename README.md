@@ -87,10 +87,10 @@ moll-snippets.nvim -->
 
 <!-- dorothy -->
 <details>
-<summary>repositories..</summary>
+<!-- <summary>repositories..</summary> -->
 
-<a href="https://github.com/kktjs/kkt">
-<img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kktjs&repo=kkt&show_owner=true" />
+<a href="https://github.com/molleweide/LuaSnip-snippets.nvim">
+<img alt="LuaSnip-snippets" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=LuaSnip-snippets.nvim&show_owner=true" />
 </a>
 
 <!-- <a href="https://github.com/jaywcjlove/tsbb">
@@ -178,5 +178,6 @@ moll-snippets.nvim -->
 </a>
 <img src="https://profile-counter.glitch.me/jaywcjlove/count.svg" />
 <img src="https://komarev.com/ghpvc/?username=jaywcjlove&color=green" /> -->
-</details>
+
+<!-- </details> -->
 </div>
