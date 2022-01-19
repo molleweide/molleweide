@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">audio | software | design | fitness</h1>
 
 <!-- TODO: readme center span svg -->
@@ -175,3 +176,4 @@ moll-snippets.nvim -->
 <img src="https://profile-counter.glitch.me/jaywcjlove/count.svg" />
 <img src="https://komarev.com/ghpvc/?username=jaywcjlove&color=green" /> -->
 </details>
+</div>
