@@ -1,6 +1,8 @@
-# audio | software | design | fitness
+<h1 align="center">audio | software | design | fitness</h1>
 
 <!-- TODO: readme center text / objects -->
+<!-- TODO: change font -->
+<!-- TODO:  -->
 
 <!-- how to custom badge:
 https://dev.to/mlkrsrc/how-to-make-custom-badges-to-improve-your-markdown-documents-460k
@@ -14,9 +16,9 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <!-- cockos forum -->
 <!-- ardour forum -->
 
-# languages
+<h1 align="center">languages</h1>
 
-<span>
+<span alignt="center">
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/lua.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/js.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/c.svg' width='30'/> 
@@ -31,9 +33,9 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/cpp.svg' width='30'/>  -->
 </span>
 
-# technologies
+<h1 align="center">uses</h1>
 
-<span>
+<span alignt="center">
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nvim.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/git.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' width='33'/> 
@@ -43,7 +45,16 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/flutter-logo.svg' width='30'/>  -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/django.svg' height='40'/>  -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/flask.png' width='30'/>  -->
+
+<!-- cockos reaper -->
+<!-- qmk -->
+<!-- kmonad -->
 </span>
+
+<!-- # uses
+
+<span>
+</span> -->
 
 <!-- TODO: -->
 <!-- # apps -->
@@ -54,8 +65,6 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 ![github stats](https://github-readme-stats.vercel.app/api?username=molleweide&show_icons=true&hide=[%22issues%22])
 
 # repositories
-
-<!-- TODO: take this from raw readme -->
 
 <!-- dotfiles
 wmx
