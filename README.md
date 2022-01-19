@@ -33,6 +33,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 
 # technologies
 
+<span>
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nvim.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/git.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' width='33'/> 
@@ -42,7 +43,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/flutter-logo.svg' width='30'/>  -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/django.svg' height='40'/>  -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/flask.png' width='30'/>  -->
-
+</span>
 
 <!-- TODO: -->
 <!-- # apps -->
