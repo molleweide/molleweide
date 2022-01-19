@@ -50,14 +50,14 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 
 <p alignt="center">
 <span>
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nvim.svg' width='50'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/neorg.svg' width='50'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/git.svg' width='50'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' width='55'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/react.svg' width='55'/>
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/angular.svg' width='55'/>
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/kmonad.svg' width='110'/> 
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/qmk.svg' width='110'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nvim.svg' href="https://github.com/neovim/neovim" width='50'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/neorg.svg' href="https://github.com/nvim-neorg/neorg" width='50'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/git.svg' href="" width='50'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' href="" width='55'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/react.svg' href="" width='55'/>
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/angular.svg' href="" width='55'/>
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/kmonad.svg' href="https://github.com/kmonad/kmonad" width='110'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/qmk.svg' href="https://github.com/qmk/qmk_firmware/" width='110'/> 
 <!-- TODO: remix -->
 <!-- TODO: kmonad -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/pycharm.svg' width='50'/>  -->
