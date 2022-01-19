@@ -5,6 +5,11 @@
 <!-- TODO: change font -->
 <!-- TODO:  -->
 
+
+I like to make music, code, and workout.
+
+<hr>
+
 <!-- how to custom badge:
 https://dev.to/mlkrsrc/how-to-make-custom-badges-to-improve-your-markdown-documents-460k
 https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
