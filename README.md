@@ -84,7 +84,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=molleweide&show_icons=true&hide=[%22issues%22])
 
-# repositories
+# repos & contributions
 
 <!-- dotfiles
 wmx
@@ -116,5 +116,8 @@ moll-snippets.nvim -->
 <img alt="kmonad-layout" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=kmonad-layout&show_owner=true" />
 </a>
 
+<a href="https://github.com/NTBBloodbath/doom-nvim">
+<img alt="doom-nvim" src="https://github-readme-stats.vercel.app/api/pin/?username=NTBBloodbath&repo=doom-nvim&show_owner=true" />
+</a>
 </details>
 </div>
