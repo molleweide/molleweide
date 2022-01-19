@@ -86,12 +86,30 @@ kmonad_run
 moll-snippets.nvim -->
 
 <!-- dorothy -->
-<details>
+<!-- <details> -->
 <!-- <summary>repositories..</summary> -->
 
 <a href="https://github.com/molleweide/LuaSnip-snippets.nvim">
 <img alt="LuaSnip-snippets" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=LuaSnip-snippets.nvim&show_owner=true" />
 </a>
+
+<a href="https://github.com/molleweide/dotfiles">
+<img alt="dotfiles" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=dotfiles&show_owner=true" />
+</a>
+
+<a href="https://github.com/bevry/dorothy">
+<img alt="dorothy" src="https://github-readme-stats.vercel.app/api/pin/?username=bevry&repo=dorothy&show_owner=true" />
+</a>
+
+<a href="https://github.com/molleweide/reaper-keys">
+<img alt="reaper-keys" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=reaper-keys&show_owner=true" />
+</a>
+
+<a href="https://github.com/molleweide/kmonad-layout">
+<img alt="kmonad-layout" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=kmonad-layout&show_owner=true" />
+</a>
+
+
 
 <!-- <a href="https://github.com/jaywcjlove/tsbb">
 <img alt="tsbb" src="https://github-readme-stats.vercel.app/api/pin/?username=jaywcjlove&repo=tsbb" />
