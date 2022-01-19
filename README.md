@@ -1,6 +1,6 @@
 <h1 align="center">audio | software | design | fitness</h1>
 
-<!-- TODO: readme center text / objects -->
+<!-- TODO: readme center span svg -->
 <!-- TODO: change font -->
 <!-- TODO:  -->
 
@@ -10,9 +10,11 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 -->
 
 <!-- mollweide / moll.weide / mo.ll / moll.w -->
+<div align="center">
 [ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/hjalmar-jakobsson-35912950/)
 [ ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white) ](https://soundcloud.com/hjalmarjakobsson)
 [ ![Twitter](https://img.shields.io/badge/molleweide-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ](https://twitter.com/molleweide)
+</div>
 <!-- cockos forum -->
 <!-- ardour forum -->
 
@@ -27,6 +29,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/html.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/css.svg' width='30'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/sass.svg' width='30'/> 
+<!-- TODO: haskell -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/bootstrap.svg' width='33'/>  -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/dart.svg' width='33'/>  -->
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/php.svg' width='40'/>
@@ -44,6 +47,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' width='33'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/react.svg' width='33'/>
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/angular.svg' width='33'/>
+<!-- TODO: remix -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/pycharm.svg' width='30'/>  -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/flutter-logo.svg' width='30'/>  -->
 <!-- <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/django.svg' height='40'/>  -->
