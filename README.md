@@ -6,9 +6,11 @@
 <!-- TODO:  -->
 
 
+<div style="padding-bottom: 0.3em; border-bottom: 1 px solid var(--color-border-muted);">
 I like to make music, code, and workout.
+</div>
 
-<hr>
+<!-- <hr> -->
 
 <!-- how to custom badge:
 https://dev.to/mlkrsrc/how-to-make-custom-badges-to-improve-your-markdown-documents-460k
