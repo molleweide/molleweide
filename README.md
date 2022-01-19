@@ -57,7 +57,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' width='55'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/react.svg' width='55'/>
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/angular.svg' width='55'/>
-<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/qmk.svg' width='50'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/qmk.svg' width='80'/> 
 <!-- TODO: remix -->
 <!-- TODO: kmonad -->
 <!-- TODO: qmk -->
