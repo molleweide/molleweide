@@ -6,7 +6,7 @@
 <!-- TODO:  -->
 
 
-<div style="padding-bottom: 0.3em; border-bottom: 1 px solid var(--color-border-muted);">
+<div style="widpadding-bottom: 0.3em; border-bottom: 1 px solid var(--color-border-muted);margin-top: 24 px; margin-bottom: 16 px;">
 I like to make music, code, and workout.
 </div>
 
