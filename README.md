@@ -51,11 +51,13 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <p alignt="center">
 <span>
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nvim.svg' width='50'/> 
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/neorg.svg' width='50'/> 
 <!-- TODO: neorg -->
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/git.svg' width='50'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/nodejs.svg' width='55'/> 
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/react.svg' width='55'/>
 <img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/angular.svg' width='55'/>
+<img src = 'https://github.com/molleweide/molleweide/blob/molleweide/images/qmk.svg' width='50'/> 
 <!-- TODO: remix -->
 <!-- TODO: kmonad -->
 <!-- TODO: qmk -->
@@ -71,53 +73,30 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/
 <!-- kmonad -->
 </span>
 
-<!-- # uses
-
-<span>
-</span> -->
-
-<!-- TODO: -->
-<!-- # apps -->
-<!-- pitch-machine -->
-
 # github stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=molleweide&show_icons=true&hide=[%22issues%22])
+
+<!-- # apps 
+
+pitch-machine
+
+-->
 
 # repos & contributions
 
 <!-- dotfiles
 wmx
-rvim
-kmonad_run
-moll-snippets.nvim -->
+ -->
 
 <!-- dorothy -->
 <details>
 <summary>repositories..</summary>
-
-<a href="https://github.com/molleweide/LuaSnip-snippets.nvim">
-<img alt="LuaSnip-snippets" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=LuaSnip-snippets.nvim&show_owner=true" />
-</a>
-
-<a href="https://github.com/molleweide/dotfiles">
-<img alt="dotfiles" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=dotfiles&show_owner=true" />
-</a>
-
-<a href="https://github.com/bevry/dorothy">
-<img alt="dorothy" src="https://github-readme-stats.vercel.app/api/pin/?username=bevry&repo=dorothy&show_owner=true" />
-</a>
-
-<a href="https://github.com/molleweide/reaper-keys">
-<img alt="reaper-keys" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=reaper-keys&show_owner=true" />
-</a>
-
-<a href="https://github.com/molleweide/kmonad-layout">
-<img alt="kmonad-layout" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=kmonad-layout&show_owner=true" />
-</a>
-
-<a href="https://github.com/NTBBloodbath/doom-nvim">
-<img alt="doom-nvim" src="https://github-readme-stats.vercel.app/api/pin/?username=NTBBloodbath&repo=doom-nvim&show_owner=true" />
-</a>
+<a href="https://github.com/molleweide/LuaSnip-snippets.nvim"> <img alt="LuaSnip-snippets" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=LuaSnip-snippets.nvim&show_owner=true" /> </a>
+<a href="https://github.com/molleweide/dotfiles"> <img alt="dotfiles" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=dotfiles&show_owner=true" /> </a>
+<a href="https://github.com/bevry/dorothy"> <img alt="dorothy" src="https://github-readme-stats.vercel.app/api/pin/?username=bevry&repo=dorothy&show_owner=true" /> </a>
+<a href="https://github.com/molleweide/reaper-keys"> <img alt="reaper-keys" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=reaper-keys&show_owner=true" /> </a>
+<a href="https://github.com/molleweide/kmonad-layout"> <img alt="kmonad-layout" src="https://github-readme-stats.vercel.app/api/pin/?username=molleweide&repo=kmonad-layout&show_owner=true" /> </a>
+<a href="https://github.com/NTBBloodbath/doom-nvim"> <img alt="doom-nvim" src="https://github-readme-stats.vercel.app/api/pin/?username=NTBBloodbath&repo=doom-nvim&show_owner=true" /> </a>
 </details>
 </div>
